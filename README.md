@@ -1,7 +1,8 @@
 # Portfolio
 Projects developed during and outside of university
 
-Software to run:
+Suggested software to run:
 - Xcode
 - Apache Netbeans or equivalent
 - Postman API
+- Jupyter Lab/Notebook
